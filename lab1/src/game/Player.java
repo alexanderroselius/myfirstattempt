@@ -10,7 +10,5 @@ public class Player {
 	String getUserId() {
 		return userId;
 	}
-
-
 }
 
